@@ -1,0 +1,7 @@
+.vscode
+target
+dependency-reduced-pom.xml
+src/main/test
+app.properties
+db.properties
+info.txt
